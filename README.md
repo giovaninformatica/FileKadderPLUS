@@ -10,6 +10,11 @@ la versione PLUS contiene il software, il manuale, e una lista di server sicuri
 già pronti.
 
 
+
+
+
+
+
 # Da cosa è nato?
 E' nato dall'idea di realizzare una copia di eMule
 che non richieda l'apertura della porta TCP.
